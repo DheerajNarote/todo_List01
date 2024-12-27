@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    gap: 10px;
+    width: 350px;
+}
+
+.input {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    width: 100%;
+    padding: 12px;
+    overflow: auto;
+}
+
+.btn {
+    padding: 10px 20px;
+}
